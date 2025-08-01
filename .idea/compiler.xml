@@ -18,11 +18,7 @@
         <module name="tlias-web-management" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="17">
-      <module name="jdbc-demo1" target="17" />
-      <module name="springboot-mybatis-quickstart" target="17" />
-      <module name="springboot-web-01" target="17" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="17" />
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
